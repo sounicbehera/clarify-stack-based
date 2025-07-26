@@ -1,6 +1,6 @@
 # Clarify.com - A Hybrid Web3 E-commerce Platform
 
-![Clarify.com Screenshot](https://i.imgur.com/your-screenshot-url.png) <!-- TODO: Replace with a real screenshot of your project -->
+<img width="1920" height="1200" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/4fa1887b-5226-4239-b2c7-7aaacbe8899a" />
 
 **Clarify.com** is a fully functional e-commerce website built for the Clarity Hackathon. This project demonstrates a complete and robust user flow for a decentralized application, combining a simulated user authentication with a real-time, on-chain payment verification system on the Stacks testnet.
 
@@ -90,10 +90,6 @@ This project uses a hybrid approach to create a stable and impressive user exper
 
 This robust method demonstrates a real-world, on-chain interaction and provides a flawless user experience for the hackathon presentation.
 
-
-
-
-<img width="1920" height="1200" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/4fa1887b-5226-4239-b2c7-7aaacbe8899a" />
 
 
 <img width="1920" height="1200" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/8dcb4bb1-af95-4665-83e3-36ecbe96de7d" />
