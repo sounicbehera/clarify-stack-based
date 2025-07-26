@@ -12,7 +12,11 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 5, name: 'Stylish Sunglasses', price: 49.99, image: 'images/pic-5.jpg' },
         { id: 6, name: 'Beige Chinos', price: 64.99, image: 'images/pic-6.jpg' },
         { id: 7, name: 'Cozy Hoodie', price: 59.99, image: 'images/pic-7.jpg' },
-        { id: 8, name: 'Canvas Backpack', price: 39.99, image: 'images/pic-8.jpg' }
+        { id: 8, name: 'Canvas Backpack', price: 39.99, image: 'images/pic-8.jpg' },
+        {id: 9, name: 'NFT drawing 1',price:299.9,image: 'images/pic-9.jpg'},
+        {id: 10, name: 'NFT drawing 2',price:199.9,image: 'images/pic-10.jpg'},
+        {id: 11, name: 'NFT drawing 3',price:239.9,image: 'images/pic-11.jpg'},
+        {id: 12, name: 'NFT drawing 4',price:259.9,image: 'images/pic-12.jpg'}
     ];
 
     // --- STATE ---
